@@ -31,7 +31,7 @@ Every day Unhedged scans 8,000 stocks and selects the best based on fundamental 
 ![momentum](https://user-images.githubusercontent.com/96864058/154419044-f758f733-527a-4244-bda7-dac232102630.JPG)
 #### Turtle and the Hare Algorithm (AKA the Robust Hierarchical Risk Parity Algorithm)
 ![turtle](https://user-images.githubusercontent.com/96864058/154419063-d556a399-f406-4984-82ac-ac6ad5eee7f5.JPG)
-* These algorithms can be compared to one of unhedged competitors Stockspot. Stockspot is Australia's first and largest Robo-advisor. One of Stockspot's best performing algorithm is 'Topaz' and its historical performance can be seen below.
+* These algorithms can be compared to one of unhedged competitors Stockspot. Stockspot is Australia's first and largest Robo-advisor. One of Stockspot's best performing algorithms is 'Topaz' and its historical performance can be seen below.
 ![topaz](https://user-images.githubusercontent.com/96864058/154419838-b08a3c09-678f-4eaf-962d-d92be33c2b24.JPG)
 * Converting those returns into a percentage, since 2014 'Topaz' has deilevered a return of approximately 100%. During that same timeframe Unhedged's momentum alogorithm increases from 150% to approximately 500%, a 333.33% return. Unhedged's Turtle and the Hare Algorithm increases from 125% to approximately 250%, a 100% return.
 
@@ -42,3 +42,9 @@ Every day Unhedged scans 8,000 stocks and selects the best based on fundamental 
 * Why do you think that offering this product or service would benefit the company?
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
+
+##### Sources
+* https://www.stockspot.com.au/how-it-works/portfolios/
+* https://support.unhedged.com.au/en/
+* https://unhedged.com.au/algorithms-at-unhedged/
+* https://unhedged.com.au/the-history-of-robo-advisors/
