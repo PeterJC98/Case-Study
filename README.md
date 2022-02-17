@@ -1,7 +1,7 @@
-### Case-Study
-Homework Assignment
-
-# Unhedged
+### A Case-Study of Unhedged
+By Peter Collins
+---
+![Title](https://user-images.githubusercontent.com/96864058/154423071-7cb731af-65b1-4a4c-b51d-f145384d1827.png)
 ## Overview and Origin
 * Unhedged was founded in 2020. It was co-founded by serial entrepreneur and prolific algorithm builder Peter Bakker as well as Mike Cohen, who has spent 10 years in management consulting in financial risk management and digital transformation for Deloitte,KPMG and  Macquarie Bank.
 * While working for hedge funds, investment banks and top tier consultants, the pair realised that everyday investors didn’t have access to advanced investment tools and wanted to create an app to address this.
@@ -10,8 +10,8 @@ Homework Assignment
 * Australia is nation of investors with close to 9 million adult Australians holding investments outside their super and primary dwelling.
 More than half have investments in direct shares and there has been an increase of new investors. Close to a quarter of all investors have started investing in the past 2 years 
 * The problem Unhedged plans to solve is that new investors don’t always have the time or energy to learn advanced investment strategies and are therefore robbed from above-average returns. Unhedged plans to change this by designing a simple app-based experience that allows everyday investors to assign their money to advanced AI trading algorithms to access higher performance
-* By using an AI trading algorithm instead of a traditional fund manager, asset under management (AUM) fees can be lower as there is less salaries to pay.
-* Unhedged boasts two different types of algorithms investors can choose from;
+* By using an AI trading algorithm instead of a traditional fund manager, asset under management (AUM) fees can be lower as there is less salaries to pay. Algorithms are also capable of many things that regular traditional fund managers are not, algorithms can absorb millions of points of data and make intensive calculations, they are also free from the effects of emotion and make purely logic based decisions
+#### Unhedged boasts two different types of algorithms investors can choose from;
 ### Momentum Algorithm
 * The momentum algorithm works on the asssumption that stocks that go up for a bit will go up longer, and stocks that go down for a while will continue to do so.
 Every day Unhedged scans 8,000 stocks and selects the best based on fundamental factors.
