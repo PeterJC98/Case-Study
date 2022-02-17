@@ -37,12 +37,7 @@ Every day Unhedged scans 8,000 stocks and selects the best based on fundamental 
 
 
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest they offer?
-(This could be something that a competitor offers, or use your imagination!)
-* Why do you think that offering this product or service would benefit the company?
-* What technologies would this additional product or service utilize?
-* Why are these technologies appropriate for your solution?
-
+With the current boom in popularity of cryptocurrencies(crypto), Unhedged could get more attention by testing algorithms in the crypto space, there are already many Robo-advisors for the stock-market in Australia but not so much for crypto. Many individuals lack expertise in cryptocurrencies and are fearful of the volatility. Considering one of goals of the founders was to help investors with little knowledge of the market, helping people navigate crypto would align with his goals. 
 ##### Sources
 * https://www.stockspot.com.au/how-it-works/portfolios/
 * https://support.unhedged.com.au/en/
