@@ -2,7 +2,7 @@
 Homework Assignment
 
 # Unhedged
-
+[Title](https://user-images.githubusercontent.com/96864058/154413016-fae0345f-368d-4ecc-ab1f-e4d8d3c00a72.png)
 ## Overview and Origin
 * Unhedged was founded in 2020. It was co-founded by serial entrepreneur and prolific algorithm builder Peter Bakker as well as Mike Cohen, who has spent 10 years in management consulting in financial risk management and digital transformation for Deloitte,KPMG and  Macquarie Bank.
 * While working for hedge funds, investment banks and top tier consultants, the pair realised that everyday investors didn’t have access to advanced investment tools and wanted to create an app to address this.
@@ -20,7 +20,7 @@ the unfair advantage they utilize?)
 take a little bit of sleuthing–– you may want to search the company’s engineering blog or use
 sites like Stackshare to find this information.)
 ## Landscape:
-* What domain of the financial industry is the company in?![Title](https://user-images.githubusercontent.com/96864058/154413016-fae0345f-368d-4ecc-ab1f-e4d8d3c00a72.png)
+* What domain of the financial industry is the company in?!
 
 * Robo-advisor
 * What have been the major trends and innovations of this domain over the last 5-10 years?
